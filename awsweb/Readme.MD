@@ -10,3 +10,11 @@ https://github.com/glassechidna/awsweb
 
 1. First level commands
 2. When the first level command is browser, it will extract out the profile names to the completion list
+
+# Prerequisite
+
+- Powershell
+
+# Troubleshooting
+
+- Completion does not appear, run `rm ~/.zcompdump*`
